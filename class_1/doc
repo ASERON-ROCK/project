@@ -1,0 +1,6 @@
+precedence and associativity
+* / both er equal priority
+ associativity  is is execution side
+ like left to right
+ or right to left
+ in java support left to right associativity
